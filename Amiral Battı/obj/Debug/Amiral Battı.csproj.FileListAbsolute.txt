@@ -1,0 +1,10 @@
+C:\Users\kaani\Desktop\Amiral Battı\bin\Debug\Amiral Battı.exe
+C:\Users\kaani\Desktop\Amiral Battı\bin\Debug\Amiral Battı.pdb
+C:\Users\kaani\Desktop\Amiral Battı\obj\Debug\Amiral Battı.csprojAssemblyReference.cache
+C:\Users\kaani\Desktop\Amiral Battı\obj\Debug\Amiral_Battı.Form1.resources
+C:\Users\kaani\Desktop\Amiral Battı\obj\Debug\Amiral_Battı.Properties.Resources.resources
+C:\Users\kaani\Desktop\Amiral Battı\obj\Debug\Amiral Battı.csproj.GenerateResource.cache
+C:\Users\kaani\Desktop\Amiral Battı\obj\Debug\Amiral Battı.csproj.CoreCompileInputs.cache
+C:\Users\kaani\Desktop\Amiral Battı\obj\Debug\Amiral Battı.exe
+C:\Users\kaani\Desktop\Amiral Battı\obj\Debug\Amiral Battı.pdb
+C:\Users\kaani\Desktop\Amiral Battı\bin\Debug\Amiral Battı.exe.config
